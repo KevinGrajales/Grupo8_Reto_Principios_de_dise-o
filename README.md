@@ -5,7 +5,7 @@ Este repositorio contiene el diagrama de clases del reto grande + el codigo y di
 # Diagrama de Clases Reto de principios de diseño
 
 Diagrama en Lucidchart:
-htts://lucid.app/lucidchart/tu-link](https://lucid.app/lucidchart/28adccc1-c1a5-45e4-9072-be7f73bd9104/edit?viewport_loc=-2069%2C-587%2C6931%2C3144%2CHWEp-vi-RSFO&invitationId=inv_92e8df88-52ca-4f11-8fdb-8ec43e17a488)
+https://lucid.app/lucidchart/28adccc1-c1a5-45e4-9072-be7f73bd9104/edit?viewport_loc=-2069%2C-587%2C6931%2C3144%2CHWEp-vi-RSFO&invitationId=inv_92e8df88-52ca-4f11-8fdb-8ec43e17a488)
 
 
 # Diagrama de Clases del miniReto
